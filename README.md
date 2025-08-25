@@ -58,3 +58,7 @@ This project expects:
 ## 5) Citation & License
 
 Please cite **Daymet** and **SOLUS** when using this workflow.  
+
+## **Ethics Section**
+As part of our commitment to ethical research and development, we provide both a [Data Card](data_card.docx) and a [Model Card](Model_Card.docx). These documents describe the datasets and models used in this project, ensuring transparency and compliance with the I-GUIDE ethics toolkit.
+
