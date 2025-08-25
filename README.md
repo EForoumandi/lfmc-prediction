@@ -40,6 +40,8 @@ This project expects:
 ├─ LFMC_prediction.ipynb    # Main, submission-ready notebook
 ├─ requirements.txt         # Python dependencies
 ├─ data/                    # Small sample inputs (not large/raw data)
+├─ Model_Card.docx          # Model Card
+├─ Data_Card.docx           # Data Card
 └─ README.md
 ```
 
@@ -50,7 +52,7 @@ This project expects:
 - **Target**: LFMC  
 - **Features**:
   - *Dynamic*: Daymet (Tmin/Tmax/precip/VPD/etc.)
-  - *Static*: SOLUS (texture/depth/hydrologic group)
+  - *Static*: SOLUS (texture/PH/etc.)
 - **Split**: Prefer **spatiotemporal splits** (train/validation/test) to avoid leakage.
 
 ---
