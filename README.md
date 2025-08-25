@@ -1,6 +1,6 @@
 # LFMC Prediction with Daymet & SOLUS
 
-Predict **Live Fuel Moisture Content (LFMC)** by fusing meteorological variables from **Daymet** and soil attributes from **SOLUS** in a workflow for the I-GUIDE Summer School 2025 deliverables.
+Predict **Live Fuel Moisture Content (LFMC)** by fusing meteorological variables from **Daymet** and soil attributes from **SOLUS** in a workflow.
 
 - **Notebook**: `LFMC_prediction.ipynb`  
 - **Environment**: Python 3.10+ (tested with Jupyter)  
